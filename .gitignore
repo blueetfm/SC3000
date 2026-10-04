@@ -1,1 +1,3 @@
 sft/gpt.pt
+.env/
+__pycache__/
