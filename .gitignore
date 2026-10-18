@@ -1,4 +1,4 @@
 sft/gpt.pt
+dpo/dpo.pt
 .env/
 __pycache__/
-dpo/pos_neg_pairs.json
